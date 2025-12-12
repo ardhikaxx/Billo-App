@@ -501,7 +501,8 @@ class _SplitBillScreenState extends State<SplitBillScreen>
                       style: TextStyle(
                         color: Colors.white.withOpacity(0.85),
                         fontSize: 14,
-                        fontWeight: FontWeight.w400,
+                        fontWeight: FontWeight.w500,
+                        fontStyle: FontStyle.italic
                       ),
                     ),
                   ),
